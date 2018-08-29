@@ -29,17 +29,11 @@ const AdoptASis = ({
           className="form-control"
         />
       </div>
-<<<<<<< HEAD
-      <button type="submit" className="btn btn-lg btn-success">
-        YAAS KWEEN!
-      </button>
-=======
       <div className="center">
         <button type="submit" className="btn btn-lg btn-dark">
           YAAS KWEEN!
         </button>
       </div>
->>>>>>> Instructions
     </form>
   </section>
 );
