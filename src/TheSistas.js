@@ -2,6 +2,10 @@ import React, { Component, Fragment } from 'react';
 import AdoptASis from './Components/AdoptASis';
 import ListofSistas from './Components/ListofSistas';
 import Progress from './Components/Progress';
+<<<<<<< HEAD
+=======
+
+>>>>>>> Instructions
 
 class TheSistas extends Component {
   state = {
@@ -45,6 +49,9 @@ class TheSistas extends Component {
     const { sistas, newSis: { photo, name }, sending } = this.state;
     return (
       <Fragment>
+        <div id="container" class="container-fluid">
+
+        </div>
         <AdoptASis
           onChangeName={this.AdoptedSistasName}
           onChangePhoto={this.AdoptedSistasPhoto}

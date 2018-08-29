@@ -4,7 +4,11 @@ const Progress = () => (
   <section>
     <div className="progress">
       <div
+<<<<<<< HEAD
         className="progress-bar progress-bar-striped bg-success progress-bar-animated"
+=======
+        className="progress-bar progress-bar-black progress-bar-striped bg-success progress-bar-animated"
+>>>>>>> Instructions
         role="progressbar"
         aria-valuenow="75"
         aria-valuemin="0"

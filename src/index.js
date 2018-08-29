@@ -2,6 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import TheBros from './TheSistas';
+<<<<<<< HEAD
+=======
+import Instructions from './Components/Instructions'
+>>>>>>> Instructions
 
 import './styles.css';
 
@@ -14,6 +18,10 @@ const App = () => (
       &nbsp;
       <i class="fas fa-venus" />
     </h1>
+<<<<<<< HEAD
+=======
+    <Instructions/>
+>>>>>>> Instructions
     <TheBros />
   </div>
 );
