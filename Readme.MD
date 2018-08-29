@@ -7,6 +7,8 @@ See what happens after you get a master class from Sara Vieira and decide to fid
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
+Thank you Sara Vieira & Cindy Potes for your contributions.
+
 ----
 Demo: https://reactwhat.surge.sh
 
